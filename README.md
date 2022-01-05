@@ -163,7 +163,7 @@ The Technical Steering Committee (TSC) guides the project. Members are:
  * Sagar Dharia, Microsoft
  * Samer El-Haj-Mahmoud, Arm
 
-## Contact
+## Contactssssss
 - Mail: openbmc@lists.ozlabs.org [https://lists.ozlabs.org/listinfo/openbmc](https://lists.ozlabs.org/listinfo/openbmc)
 - Discord: https://discord.gg/69Km47zH98
 
